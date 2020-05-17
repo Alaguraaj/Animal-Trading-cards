@@ -1,0 +1,55 @@
+/* add your CSS here */
+h3 {
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px #aaa;
+    
+   
+  }
+ul{
+    padding: 0;
+ }
+
+ li span{
+     font-weight: bold;
+     font-variant: small-caps;
+
+ } 
+
+.bullets{
+    list-style-type: none;
+       
+ }
+
+ body{
+    padding:20px;
+    border:2px solid darkblue;
+    width:312px;
+    margin: 0 auto;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+ img{
+     width: 300px;
+     border:1px solid darkblue;
+     margin: 5px;
+ }
+
+ #outer_body{
+     width: 260px;
+     border:1px solid darkblue;
+     padding:20px;
+     margin: 5px;
+ }
+
+.fact{
+    font-style: italic;
+}
+
+em{
+    font-weight: lighter;
+}
+
+  
