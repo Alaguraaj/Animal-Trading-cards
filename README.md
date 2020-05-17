@@ -8,6 +8,6 @@ This project was created through the udacity- Introduction to Programming Nanode
 
 ## InstructionS:
 - Download or clone the Repository.
-- Open index.html in your browser. 
+- Open card.html in your browser. 
 
 **Build with: HTML and CSS**
