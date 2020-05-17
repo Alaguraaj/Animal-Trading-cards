@@ -1,6 +1,6 @@
 # Animal-trading-cards
 
-This project was created through the udacity- Introduction to Programming Nanodegree Program.
+This project was created through the udacity- Intro to Programming Nanodegree.
 
 ## Project Description:
 - Using CSS to convert a design prototype into a functional webpages.
